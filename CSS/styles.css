@@ -1,6 +1,8 @@
 body{
      background-color:#EAF6F6;
-     text-align: center;
+}
+.container {
+   text-align: center;  
 }
 h1{
     color:#66BFBF;
